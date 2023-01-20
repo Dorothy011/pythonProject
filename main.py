@@ -1,5 +1,8 @@
 # test
-def sum(a,b):
-    return a+ b
+def sum(a, b):
+    return a + b
 
-print(sum(s,b))
+
+a = 1
+b = 2
+print(sum(a, b))
